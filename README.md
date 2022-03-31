@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParthMangrulkar-94
+- 👋 Hi, I’m Parth Mangrulkar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
